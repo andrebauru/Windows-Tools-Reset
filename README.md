@@ -1,6 +1,4 @@
-Aqui está um exemplo de `README.md` atualizado, oferecendo instruções em ambos os idiomas (Português e Inglês):
 
-```markdown
 # Ferramentas de Administração do Sistema
 
 Este script permite a administração básica do sistema operacional Windows, oferecendo funcionalidades como elevação de usuários a administradores, remoção de usuários e restauração das configurações de fábrica do sistema. O usuário pode escolher entre a interface em Português ou Inglês.
